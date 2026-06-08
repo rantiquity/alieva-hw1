@@ -2,4 +2,4 @@
 sum_two_numbers <- function(a, b) {
   # Ваш код здесь:
   sum(a, b)
-}
+} 
